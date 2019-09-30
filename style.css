@@ -1,0 +1,14 @@
+body {
+  background: lightgreen;
+}
+
+h1 {
+  font-size:200%;color:orange;
+  border: inset 10px #ff0000;
+}
+li:first-letter {
+   font-weight: bold;
+   color: blue;
+}
+h2 {
+  
